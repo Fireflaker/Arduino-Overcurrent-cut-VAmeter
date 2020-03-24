@@ -11,4 +11,4 @@ Add SetTriggerTime and SetReleaseTime
 Add manual on off
 Add over temperature control
 
-❮img src="https://raw.githubusercontent.com/Fireflaker/Arduino-Overcurrent-cut-VAmeter/master/IMG_20200124_202221.jpg" width="100" ❯
+<img src="https://raw.githubusercontent.com/Fireflaker/Arduino-Overcurrent-cut-VAmeter/master/IMG_20200124_202221.jpg" width="1000" >
